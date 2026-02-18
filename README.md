@@ -1,7 +1,4 @@
-# live-streaming-technical-test
-
-
-## Low-Latency Live HLS Playlist Orchestrator
+# Low-Latency Live HLS Playlist Orchestrator
 
 ### Goal
 
